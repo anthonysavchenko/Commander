@@ -61,3 +61,5 @@ D:\Code\Commander\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data
 D:\Code\Commander\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Code\Commander\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Code\Commander\obj\Debug\netcoreapp3.1\Commander.csproj.CopyComplete
+D:\Code\Commander\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Code\Commander\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
